@@ -12,14 +12,13 @@ chmod +x ./preprocessor.sh
 
 2. 把 zip 檔放到 root 目錄下
 
-3. excute
+3.
 
 ```bash
 ./preprocessor.sh
 ```
 
-4. excute
-   example 是要改的名字 Project01, Midterm 之類的
+4. example 是要改的名字 Project01, Midterm 之類的
 
 ```bash
 ./grade.sh $example
