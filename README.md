@@ -10,7 +10,7 @@ chmod +x ./preprocessor.sh
 
 1. update Main.c answer.txt
 
-2. 把 zip 檔放到 root 目錄下
+2. 把 zip 檔放到 root 目錄下 (root 下只能有一個 zip 檔)
 
 3.
 
